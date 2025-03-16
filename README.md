@@ -27,9 +27,7 @@ This session provides a comprehensive introduction to Artificial Intelligence (A
 
 ---
 
-This structure provides a clear, organized way to present the session content in a **README.md** file.
 
----
 
 
 
