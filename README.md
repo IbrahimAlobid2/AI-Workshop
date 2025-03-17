@@ -21,7 +21,7 @@ Whether you're just starting or seeking to enhance your capabilities, this works
 
 ---
 
-## 🛠️ Technologies Covered
+##  Technologies Covered
 
 - **Python**, **LangChain**, **Groq LLM**, **OpenAI GPT**, **FAISS**
 - **Streamlit**, **PyPDF2**, **Pandas**, **Matplotlib**
@@ -30,7 +30,7 @@ Whether you're just starting or seeking to enhance your capabilities, this works
 
 ---
 
-## 📚 Workshop Structure
+##  Workshop Structure
 
 1. **Introduction to AI & Generative AI**
 2. **LLM Lab** – Interactive applications with LangChain & Groq
@@ -41,7 +41,7 @@ Whether you're just starting or seeking to enhance your capabilities, this works
 
 ---
 
-## 🧭 Goal
+##  Goal
 
 By the end of this workshop, you will be equipped to:
 - Understand and apply AI fundamentals
