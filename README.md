@@ -52,11 +52,7 @@ By the end of this workshop, you will be equipped to:
 - Deploy AI solutions via modern APIs
 - Build a solid portfolio of impactful AI projects
 
----
 
-
-
----
 
 
 ---
@@ -84,7 +80,7 @@ This session provides a comprehensive introduction to Artificial Intelligence (A
 
 
 ## lesson 2
-**[LLM lab ](./lesson_1/lesson_1.ipynb)**  
+**[LLM lab ](./labs/lesson_1.ipynb)**  
 
 ---
 
