@@ -10,7 +10,7 @@ Whether you're just starting or seeking to enhance your capabilities, this works
 
 ---
 
-## 🚀 What You’ll Learn
+##  What You’ll Learn
 
 - Core principles of **Artificial Intelligence** and **Generative AI**
 - Practical implementation of **LLMs** using Groq APIs and LangChain
